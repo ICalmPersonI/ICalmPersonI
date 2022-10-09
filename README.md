@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @ICalmPersonI\
 ![alt text](https://www.codewars.com/users/ICalmPersonI/badges/large)
 <!---
 ICalmPersonI/ICalmPersonI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
