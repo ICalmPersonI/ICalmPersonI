@@ -1,7 +1,9 @@
+[Leetcode](https://leetcode.com/ICalmPersonI/)\
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ICalmPersonI)
 
-![alt text](https://www.codewars.com/users/ICalmPersonI/badges/large)\
 [Codewars](https://www.codewars.com/users/ICalmPersonI)\
+![alt text](https://www.codewars.com/users/ICalmPersonI/badges/large)
+
 [JetBrains Academy](https://hyperskill.org/profile/64168009)
 
 <!---
