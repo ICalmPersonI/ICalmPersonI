@@ -1,12 +1,14 @@
-[Leetcode](https://leetcode.com/ICalmPersonI/)\
-![Leetcode Stats](https://leetcard.jacoblin.cool/ICalmPersonI)
+# Hello, I'm Andrii! 👋
 
-[Codewars](https://www.codewars.com/users/ICalmPersonI)\
-![alt text](https://www.codewars.com/users/ICalmPersonI/badges/large)
+[![Leetcode](https://img.shields.io/badge/Leetcode-ICalmPersonI-brightgreen?logo=leetcode)](https://leetcode.com/ICalmPersonI/)
+[![Codewars](https://img.shields.io/badge/Codewars-ICalmPersonI-red?logo=codewars)](https://www.codewars.com/users/ICalmPersonI)
+[![JetBrains Academy](https://img.shields.io/badge/JetBrains%20Academy-ICalmPersonI-blue?logo=jetbrains)](https://hyperskill.org/profile/64168009)
 
-[JetBrains Academy](https://hyperskill.org/profile/64168009)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ICalmPersonI)  
+![Codewars Badges](https://www.codewars.com/users/ICalmPersonI/badges/large)
+
+🌱 Currently, I'm learning and improving my programming skills.
 
 <!---
-ICalmPersonI/ICalmPersonI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ICalmPersonI/ICalmPersonI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the "Preview" link to see my changes.
 --->
