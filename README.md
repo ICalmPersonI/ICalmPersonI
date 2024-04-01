@@ -8,6 +8,5 @@ I'm particularly fond of reactive programming.
 [![JetBrains Academy](https://img.shields.io/badge/JetBrains%20Academy-ICalmPersonI-blue?logo=jetbrains)](https://hyperskill.org/profile/64168009)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ICalmPersonI)  
-![Codewars Badges](https://www.codewars.com/users/ICalmPersonI/badges/large)
 
 🌱 Currently, I'm learning and improving my programming skills.
